@@ -1,0 +1,8 @@
+packages:
+  - apps/*
+onlyBuiltDependencies:
+  - '@swc/core'
+  - esbuild
+  - sharp
+  - skia-canvas
+  - sqlite3
